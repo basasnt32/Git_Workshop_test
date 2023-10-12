@@ -1,1 +1,8 @@
-All the very best
+1.git mkdir config
+2.it the-a
+3.git init
+4.mkdir<folder_name>
+5.touch<folder_name>
+6.git->git is working on virtual managment but github working on clioud based
+       git is using unix/linux,but github working with microsoft account
+       git is opensource code but github is paid platform
